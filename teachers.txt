@@ -1,0 +1,2 @@
+Name: Kolver, Age: 31, Subject: Afrikaans
+Name: Swart, Age: 30, Subject: English
